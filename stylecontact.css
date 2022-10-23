@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+header{
+    background-color: rgb(8, 49, 8);
+    color: goldenrod;
+    
+}
+
+main{
+    background-color: rgb(81, 126, 81);
+}
+
+
+body{
+    font-family: 'Satisfy', cursive;
+}
+.p1{
+    color: black;
+    border: black, 5px, yellow;
+}
+.nav{
+    background-color: rgb(81, 126, 81);
+    color: goldenrod;
+    text-decoration: none;
+    text-align: justify;
+    padding: 3px;
+    border-radius: 3px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}

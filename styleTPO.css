@@ -8,6 +8,7 @@ h2{
 header{
     background-color: rgb(8, 49, 8);
     color: goldenrod;
+    
 }
 
 main{
@@ -15,7 +16,7 @@ main{
 }
 
 
-.body{
+body{
     font-family: 'Satisfy', cursive;
 }
 .p1{
@@ -36,3 +37,12 @@ footer{
     color: white;
     text-align: center;
 }
+
+aside{
+    text-align: right;
+}
+
+.container{
+    display: grid;
+}
+
