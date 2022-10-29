@@ -1,33 +1,43 @@
-h1{
+h1 {
     text-align: center;
 }
 
-h2{
+h2 {
     text-align: center;
+
 }
 
-h3{
+h3 {
     text-align: center;
+    font-size: 30px;
+
+
+
 }
-header{
+
+header {
     background-color: rgb(8, 49, 8);
     color: goldenrod;
-    
+
 }
 
-main{
+main {
     background-color: rgb(81, 126, 81);
+    padding: 5px;
 }
 
 
-body{
+body {
     font-family: 'Satisfy', cursive;
+    margin: 0%;
 }
-.p1{
+
+.p1 {
     color: black;
     border: black, 5px, yellow;
 }
-.nav{
+
+.nav {
     background-color: rgb(81, 126, 81);
     color: goldenrod;
     text-decoration: none;
@@ -36,15 +46,38 @@ body{
     border-radius: 3px;
 }
 
-div{
-    width: 100px;
-    height: 100px;
-    background:rgb(160, 209, 160) ;
-    border: solid black;
+.container {
+
     text-align: center;
+
+
+
+
+
+}
+.discografia{
+
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+div img {
+    width: 400px;
+    height: 400px;
+    background: rgb(160, 209, 160);
+    border: solid black;
+
+
+
+
 }
 
-footer{
+
+.spotify {
+    font-size: 30px;
+    color: black;
+}
+
+footer {
     background-color: black;
     color: white;
     text-align: center;
