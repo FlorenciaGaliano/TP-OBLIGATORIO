@@ -5,7 +5,8 @@ h1{
 h3{
     text-align: center;
 }
-header{
+
+header, footer{
     background-color: rgb(8, 49, 8);
     color: goldenrod;
     
@@ -38,7 +39,5 @@ aside{
 }
 
 footer{
-    background-color: black;
-    color: white;
     text-align: center;
 }
