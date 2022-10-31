@@ -5,10 +5,18 @@ h1{
 h2{
     text-align: center;
 }
-header, footer{
+header{
     background-color: rgb(8, 49, 8);
     color: goldenrod;
-    
+    font-size: 20px;
+}
+
+footer{
+    background-color: rgb(8, 49, 8);
+    color: goldenrod;
+    text-align: center;
+    font-size: 20px;
+    height: 50px;
 }
 
 main{
@@ -18,8 +26,7 @@ main{
 
 body{
     font-family: 'Satisfy', cursive;
-    
-}
+    }
 .p1{
     color: black;
     border: black, 5px, yellow;
@@ -82,3 +89,21 @@ div.container {
     width: 100%;
     height: auto;
     }
+
+    /*Tamaño de tablet*/
+    @media only screen and (max-width: 700px){
+    }
+
+    /*Tamaño de celular*/
+    @media only screen and (max-width: 500px){   
+    *{background-color: rgb(20, 44, 20);
+    }
+    .body{
+        background-color: rgb(20, 39, 20);
+    }
+    }
+
+    .container{
+        display:grid
+    }
+
